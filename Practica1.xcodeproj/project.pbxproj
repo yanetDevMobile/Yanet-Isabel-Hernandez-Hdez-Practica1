@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		847ABF7B21E7940B009E8A7B /* PersonasVisitaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847ABF7A21E7940B009E8A7B /* PersonasVisitaViewController.swift */; };
+		847ABF7D21E7951F009E8A7B /* Persona.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847ABF7C21E7951F009E8A7B /* Persona.swift */; };
+		847ABF7F21E79541009E8A7B /* helpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847ABF7E21E79541009E8A7B /* helpers.swift */; };
+		847ABF8121E797AC009E8A7B /* RutasViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847ABF8021E797AC009E8A7B /* RutasViewController.swift */; };
+		847AC00321E7F97C009E8A7B /* ModelEmpleado.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 847AC00121E7F97C009E8A7B /* ModelEmpleado.xcdatamodeld */; };
+		847AC00521E7F9BB009E8A7B /* EmpleadoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847AC00421E7F9BB009E8A7B /* EmpleadoViewController.swift */; };
+		847AC00B21E81319009E8A7B /* RegistroEmpleado.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847AC00A21E81319009E8A7B /* RegistroEmpleado.swift */; };
+		847AC00D21E8FDDC009E8A7B /* loginResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847AC00C21E8FDDC009E8A7B /* loginResult.swift */; };
+		847D6B9B21E642B9004A4F9E /* Constantes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847D6B9A21E642B9004A4F9E /* Constantes.swift */; };
+		847D6B9D21E64706004A4F9E /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847D6B9C21E64706004A4F9E /* Extension.swift */; };
 		84FBC88221E3D2EF00DE193B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84FBC88121E3D2EF00DE193B /* AppDelegate.swift */; };
 		84FBC88421E3D2EF00DE193B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84FBC88321E3D2EF00DE193B /* ViewController.swift */; };
 		84FBC88721E3D2EF00DE193B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84FBC88521E3D2EF00DE193B /* Main.storyboard */; };
@@ -14,6 +24,10 @@
 		84FBC88C21E3D2F000DE193B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84FBC88A21E3D2F000DE193B /* LaunchScreen.storyboard */; };
 		84FBC89721E3D2F000DE193B /* Practica1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84FBC89621E3D2F000DE193B /* Practica1Tests.swift */; };
 		84FBC8A221E3D2F000DE193B /* Practica1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84FBC8A121E3D2F000DE193B /* Practica1UITests.swift */; };
+		84FBC8EC21E3F12100DE193B /* RegistroViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84FBC8EB21E3F12100DE193B /* RegistroViewController.swift */; };
+		84FBC8F021E3FC8B00DE193B /* Registro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84FBC8EF21E3FC8B00DE193B /* Registro.swift */; };
+		84FBC8F221E50F1F00DE193B /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84FBC8F121E50F1F00DE193B /* WelcomeViewController.swift */; };
+		84FBC8F421E5150700DE193B /* RecuperarContraseñaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84FBC8F321E5150700DE193B /* RecuperarContraseñaViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +48,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		847ABF7A21E7940B009E8A7B /* PersonasVisitaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonasVisitaViewController.swift; sourceTree = "<group>"; };
+		847ABF7C21E7951F009E8A7B /* Persona.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persona.swift; sourceTree = "<group>"; };
+		847ABF7E21E79541009E8A7B /* helpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = helpers.swift; sourceTree = "<group>"; };
+		847ABF8021E797AC009E8A7B /* RutasViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RutasViewController.swift; sourceTree = "<group>"; };
+		847AC00221E7F97C009E8A7B /* ModelEmpleado.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ModelEmpleado.xcdatamodel; sourceTree = "<group>"; };
+		847AC00421E7F9BB009E8A7B /* EmpleadoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmpleadoViewController.swift; sourceTree = "<group>"; };
+		847AC00A21E81319009E8A7B /* RegistroEmpleado.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistroEmpleado.swift; sourceTree = "<group>"; };
+		847AC00C21E8FDDC009E8A7B /* loginResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loginResult.swift; sourceTree = "<group>"; };
+		847D6B9A21E642B9004A4F9E /* Constantes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constantes.swift; sourceTree = "<group>"; };
+		847D6B9C21E64706004A4F9E /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
 		84FBC87E21E3D2EF00DE193B /* Practica1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Practica1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84FBC88121E3D2EF00DE193B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84FBC88321E3D2EF00DE193B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +71,10 @@
 		84FBC89D21E3D2F000DE193B /* Practica1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Practica1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84FBC8A121E3D2F000DE193B /* Practica1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Practica1UITests.swift; sourceTree = "<group>"; };
 		84FBC8A321E3D2F000DE193B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84FBC8EB21E3F12100DE193B /* RegistroViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistroViewController.swift; sourceTree = "<group>"; };
+		84FBC8EF21E3FC8B00DE193B /* Registro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Registro.swift; sourceTree = "<group>"; };
+		84FBC8F121E50F1F00DE193B /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
+		84FBC8F321E5150700DE193B /* RecuperarContraseñaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "RecuperarContraseñaViewController.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,11 +126,25 @@
 			isa = PBXGroup;
 			children = (
 				84FBC88121E3D2EF00DE193B /* AppDelegate.swift */,
+				847AC00121E7F97C009E8A7B /* ModelEmpleado.xcdatamodeld */,
 				84FBC88321E3D2EF00DE193B /* ViewController.swift */,
+				847AC00C21E8FDDC009E8A7B /* loginResult.swift */,
+				847D6B9A21E642B9004A4F9E /* Constantes.swift */,
+				847D6B9C21E64706004A4F9E /* Extension.swift */,
 				84FBC88521E3D2EF00DE193B /* Main.storyboard */,
+				847AC00421E7F9BB009E8A7B /* EmpleadoViewController.swift */,
+				847ABF8021E797AC009E8A7B /* RutasViewController.swift */,
+				847ABF7A21E7940B009E8A7B /* PersonasVisitaViewController.swift */,
 				84FBC88821E3D2F000DE193B /* Assets.xcassets */,
 				84FBC88A21E3D2F000DE193B /* LaunchScreen.storyboard */,
 				84FBC88D21E3D2F000DE193B /* Info.plist */,
+				84FBC8EB21E3F12100DE193B /* RegistroViewController.swift */,
+				84FBC8EF21E3FC8B00DE193B /* Registro.swift */,
+				84FBC8F121E50F1F00DE193B /* WelcomeViewController.swift */,
+				84FBC8F321E5150700DE193B /* RecuperarContraseñaViewController.swift */,
+				847ABF7C21E7951F009E8A7B /* Persona.swift */,
+				847ABF7E21E79541009E8A7B /* helpers.swift */,
+				847AC00A21E81319009E8A7B /* RegistroEmpleado.swift */,
 			);
 			path = Practica1;
 			sourceTree = "<group>";
@@ -256,8 +298,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84FBC8F021E3FC8B00DE193B /* Registro.swift in Sources */,
+				847ABF7F21E79541009E8A7B /* helpers.swift in Sources */,
+				847ABF8121E797AC009E8A7B /* RutasViewController.swift in Sources */,
+				84FBC8F221E50F1F00DE193B /* WelcomeViewController.swift in Sources */,
+				847AC00D21E8FDDC009E8A7B /* loginResult.swift in Sources */,
+				84FBC8F421E5150700DE193B /* RecuperarContraseñaViewController.swift in Sources */,
 				84FBC88421E3D2EF00DE193B /* ViewController.swift in Sources */,
+				84FBC8EC21E3F12100DE193B /* RegistroViewController.swift in Sources */,
+				847D6B9B21E642B9004A4F9E /* Constantes.swift in Sources */,
 				84FBC88221E3D2EF00DE193B /* AppDelegate.swift in Sources */,
+				847D6B9D21E64706004A4F9E /* Extension.swift in Sources */,
+				847ABF7D21E7951F009E8A7B /* Persona.swift in Sources */,
+				847AC00521E7F9BB009E8A7B /* EmpleadoViewController.swift in Sources */,
+				847ABF7B21E7940B009E8A7B /* PersonasVisitaViewController.swift in Sources */,
+				847AC00321E7F97C009E8A7B /* ModelEmpleado.xcdatamodeld in Sources */,
+				847AC00B21E81319009E8A7B /* RegistroEmpleado.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -580,6 +636,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		847AC00121E7F97C009E8A7B /* ModelEmpleado.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				847AC00221E7F97C009E8A7B /* ModelEmpleado.xcdatamodel */,
+			);
+			currentVersion = 847AC00221E7F97C009E8A7B /* ModelEmpleado.xcdatamodel */;
+			path = ModelEmpleado.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 84FBC87621E3D2EF00DE193B /* Project object */;
 }
